@@ -2,17 +2,15 @@ body {
     font-family: Arial, sans-serif;
     background-color: #fef9f4;
     color: #333;
-    margin: 0;
-    padding: 0;
+    font-size: 18px;  /* Add this line */
 }
-header, nav, main, footer {
-    padding: 20px;
-    text-align: center;
+header h1 {
+    font-size: 2.5em;
+    font-weight: bold;
 }
 nav a {
-    margin: 0 10px;
-    text-decoration: none;
-    color: #5c3d00;
+    margin: 0 15px;
+    font-size: 1.2em;
 }
 footer {
     font-size: 0.8em;
