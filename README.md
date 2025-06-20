@@ -1,2 +1,2 @@
-# GoatBot Website
-Upload all contents into a `Goatbot/` subfolder in your repo `goatforge.github.io`.
+# Deploy
+Upload all files into your `Goatbot` repo. Files will serve at https://goatforge.github.io/Goatbot/
